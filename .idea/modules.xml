@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tarefa Marco.iml" filepath="$PROJECT_DIR$/Tarefa Marco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imc-calculator.iml" filepath="$PROJECT_DIR$/imc-calculator.iml" />
     </modules>
   </component>
 </project>
